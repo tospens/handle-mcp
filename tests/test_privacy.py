@@ -13,6 +13,7 @@ from tests.conftest import LEAK
 CALLS = [
     ("search_products", {"query": "mælk", "stores": ["fake"]}),
     ("list_offers", {"stores": ["fake"]}),
+    ("search_leaflets", {"query": "kaffe"}),
     ("search_recipes", {"query": "karry", "stores": ["fake"]}),
     ("get_recipe", {"store": "fake", "recipe": "r1", "persons": 6}),
     ("list_recipes", {"stores": ["fake"]}),

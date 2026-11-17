@@ -194,3 +194,21 @@ class ProductNutrition:
     name: str | None
     nutrition: Nutrition | None  # None: no declaration (fresh meat, fruit) or unknown product
     reason: str | None = None  # why nutrition is None, in Danish
+
+
+@dataclass
+class LeafletOffer:
+    """An offer from a chain's leaflet on eTilbudsavis (docs/adr/0016). Valid in the chain's
+    physical shops; there is no cart and no product id."""
+
+    chain: str  # as eTilbudsavis writes it, e.g. "Netto", "føtex", "REMA 1000"
+    heading: str
+    description: str | None
+    price: Decimal | None
+    before_price: Decimal | None  # the price without the offer, when the leaflet says it
+    size: str | None  # e.g. "400 g", "100-500 g", "2 x 250 g", "10 stk"
+    unit_price: Decimal | None  # price per unit below; None when the size is a range
+    unit: str | None  # "kg", "l" or "stk"
+    unit_price_reason: str | None  # why unit_price is None, in Danish
+    valid_from: date  # Danish days
+    valid_until: date

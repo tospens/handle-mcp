@@ -25,6 +25,7 @@ src/handle_mcp/
   match.py         words: does this product match the item?
   pricing.py       kroner: packs for the amount, offers, delivery day
   nutrition.py     get_nutrition: read a Danish nutrition label ("0,13 g", "329 kJ / 78 Kcal")
+  leaflets.py      search_leaflets: leaflet offers from every Danish chain via eTilbudsavis (ADR 0016)
   recipe_cart.py   add_recipe_to_cart: a recipe's products as absolute cart counts
   links.py         with_utm(): UTM tags on every cart link the human clicks
   telemetry.py     anonymous counts (server_started, first_tool_call, login_ok, cart_filled, list_filled); off until a yes (`handle-mcp telemetry on`, ADR 0014)

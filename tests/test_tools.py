@@ -22,6 +22,7 @@ ALLOWED = {
     "get_recipe": False,
     "list_recipes": False,
     "list_offers": False,
+    "search_leaflets": False,
     "compare_basket": False,
     "get_nutrition": False,
     "get_cart": False,

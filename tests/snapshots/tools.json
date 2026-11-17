@@ -476,6 +476,51 @@
   }
  },
  {
+  "name": "search_leaflets",
+  "description": "Search this week's leaflet offers from grocery chains in Denmark (Netto, Lidl, føtex,\nREMA 1000 ...) on eTilbudsavis. For shopping in the chains' own shops: a leaflet offer has\nno product id and never goes in a cart. To buy online, use search_products in a store.\nOffers valid today or starting within 7 days, with valid_from and valid_until (Danish\ndays), price, before_price, size and unit_price per kg/l/stk (null with\nunit_price_reason when the size is a range). In eTilbudsavis' order of relevance: compare\nunit prices, not prices. `url` is the search on etilbudsavis.dk for the human.",
+  "inputSchema": {
+   "properties": {
+    "query": {
+     "description": "What to find, in Danish, e.g. \"kaffe\".",
+     "title": "Query",
+     "type": "string"
+    },
+    "chains": {
+     "anyOf": [
+      {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "description": "Chains as eTilbudsavis writes them, e.g. [\"Netto\", \"føtex\", \"REMA 1000\"]. Leave out for the household's chains (every chain in Denmark if none are set).",
+     "title": "Chains"
+    },
+    "limit": {
+     "default": 20,
+     "description": "Offers, 1-50.",
+     "title": "Limit",
+     "type": "integer"
+    }
+   },
+   "required": [
+    "query"
+   ],
+   "type": "object",
+   "title": "search_leafletsArguments"
+  },
+  "annotations": {
+   "readOnlyHint": true,
+   "destructiveHint": false,
+   "openWorldHint": true
+  }
+ },
+ {
   "name": "search_products",
   "description": "Search products in one or more stores. Returns price, price per kg/l, offers and EAN when\nknown. Stores rank by relevance and put cheap products far down: when the human asks for the\ncheapest, use sort=\"unit_price\" (per kg/l/stk) or \"price\". For a whole shopping list, use\ncompare_basket.",
   "inputSchema": {

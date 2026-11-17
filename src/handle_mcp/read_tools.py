@@ -9,23 +9,28 @@ from typing import Annotated, Literal
 from mcp.server.mcpserver.exceptions import ToolError
 from pydantic import Field
 
-from handle_mcp import compare
+from handle_mcp import compare, leaflets
 from handle_mcp.app import (
     CATEGORY_RESULTS,
+    LEAFLET_RESULTS,
     MAX_CATEGORY_RESULTS,
     MAX_ITEMS,
+    MAX_LEAFLET_RESULTS,
     MAX_RESULTS,
     READ,
     StoreName,
     StoreNames,
     _call,
     _each,
+    _error_text,
     _names,
     _out,
     _persons,
     _tool,
 )
 from handle_mcp.stores import OFFER_CATEGORIES
+
+_leaflets = leaflets.Leaflets()
 
 
 @_tool(READ)
@@ -144,6 +149,33 @@ async def list_offers(
     else:
         limit = max(1, min(limit or MAX_RESULTS, MAX_RESULTS))
     return _out(await _each(_names(stores), lambda s: s.offers(limit, category)))
+
+
+@_tool(READ)
+async def search_leaflets(
+    query: Annotated[str, Field(description='What to find, in Danish, e.g. "kaffe".')],
+    chains: Annotated[
+        list[str] | None,
+        Field(
+            description='Chains as eTilbudsavis writes them, e.g. ["Netto", "føtex", "REMA 1000"]. '
+            "Leave out for the household's chains (every chain in Denmark if none are set)."
+        ),
+    ] = None,
+    limit: Annotated[int, Field(description="Offers, 1-50.")] = LEAFLET_RESULTS,
+) -> dict:
+    """Search this week's leaflet offers from grocery chains in Denmark (Netto, Lidl, føtex,
+    REMA 1000 ...) on eTilbudsavis. For shopping in the chains' own shops: a leaflet offer has
+    no product id and never goes in a cart. To buy online, use search_products in a store.
+    Offers valid today or starting within 7 days, with valid_from and valid_until (Danish
+    days), price, before_price, size and unit_price per kg/l/stk (null with
+    unit_price_reason when the size is a range). In eTilbudsavis' order of relevance: compare
+    unit prices, not prices. `url` is the search on etilbudsavis.dk for the human."""
+    limit = max(1, min(limit, MAX_LEAFLET_RESULTS))
+    try:
+        found = await _leaflets.search(query.strip(), chains or leaflets.default_chains(), limit)
+    except Exception as exc:
+        raise ToolError(_error_text(leaflets.NAME, exc)) from exc
+    return _out(found)
 
 
 @_tool(READ)

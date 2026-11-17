@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "EHnqupKW7kA_6OMbl9-aH",
+  "heading": "FRIELE 500 G KAFFE",
+  "description": "Filtermalt/hele bønner/kokemalt. Ord.pris fra 126,90 til 139,-",
+  "pricing": {
+   "price": 89,
+   "pre_price": 134.9,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 500,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "e857Mm",
+  "run_from": "2026-11-19T23:00:00+0000",
+  "run_till": "2026-11-21T22:59:59+0000",
+  "dealer": {
+   "id": "e857Mm",
+   "name": "Europris",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "sQTEMWA7rEJhha04sgaCX",
+  "heading": "Löfbergs eller Peter Larsen Kaffe eller hele bønner",
+  "description": "100-500 g\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 79.00 pr. stk.\nMax. 550.00 pr. kg",
+  "pricing": {
+   "price": 55,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 100,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": 6
+   }
+  },
+  "dealer_id": "11deC",
+  "run_from": "2026-11-18T23:00:00+0000",
+  "run_till": "2026-11-21T22:59:59+0000",
+  "dealer": {
+   "id": "11deC",
+   "name": "REMA 1000",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "-xmsVi9sPS7NZiQaat2hW",
+  "heading": "BKI formalet kaffe",
+  "description": "300-400 g. Pr. kg max. 100,00",
+  "pricing": {
+   "price": 30,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 300,
+    "to": 400
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "9ba51",
+  "run_from": "2026-11-13T23:00:00+0000",
+  "run_till": "2026-11-20T22:59:59+0000",
+  "dealer": {
+   "id": "9ba51",
+   "name": "Netto",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "tSNpBoYNzEMUU1cP65z6L",
+  "heading": "Peter Larsen Kaffe, Gevalia, Café Noir eller Illy kaffe",
+  "description": "400-500 g Gevalia, Café Noir eller Peter Larsen perfekt med mælk, blanding 72 eller 95 formalet kaffe, 95-250 g Illy kaffe. Flere varianter. Pr. kg max. 578,95",
+  "pricing": {
+   "price": 55,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "bdf5A",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-26T22:59:59+0000",
+  "dealer": {
+   "id": "bdf5A",
+   "name": "føtex",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "3BIA4J0RJPkoESMXm93w_",
+  "heading": "ALI KAFFE 250 G",
+  "description": "pr. pk\n140/KG",
+  "pricing": {
+   "price": 35,
+   "pre_price": null,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 250,
+    "to": 250
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "5b11sm",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "5b11sm",
+   "name": "Bunnpris",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "Tr1xTpxWM-ikdBa4zoa7U",
+  "heading": "Nescafe instant kaffe eller Lavazza hele kaffebønner",
+  "description": "Flere varianter. 200-500 g. Kg-pris maks. 276,00. 1 glas/pose.",
+  "pricing": {
+   "price": 69,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 200,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "0b1e8",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "0b1e8",
+   "name": "SuperBrugsen",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "At8H8kDt_bUzsrMKd7DKB",
+  "heading": "Nescafé instant kaffe",
+  "description": "200-250 g. Pr. kg max. 395,00",
+  "pricing": {
+   "price": 79,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 200,
+    "to": 250
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "9ba51",
+  "run_from": "2026-11-13T23:00:00+0000",
+  "run_till": "2026-11-20T22:59:59+0000",
+  "dealer": {
+   "id": "9ba51",
+   "name": "Netto",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "wUJfQa0iWpfJdNvVMtMin",
+  "heading": "Merrild eller Lavazza formalet kaffe",
+  "description": "340-500 g. Flere varianter. Pr. kg max. 144.12\nMAX. 16 PS. TIL DENNE PRIS",
+  "pricing": {
+   "price": 49,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 340,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": 16
+   }
+  },
+  "dealer_id": "93f13",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "93f13",
+   "name": "Bilka",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "GaxZ3gClXBw0pab4vRqH3",
+  "heading": "Cirkel Kaffe eller Lavazza formalet kaffe eller Cirkel Kaffe hele bønner",
+  "description": "340-500 g. Kg-pris maks. 161,76. 1 pose",
+  "pricing": {
+   "price": 55,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 340,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "d311fg",
+  "run_from": "2026-11-05T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "d311fg",
+   "name": "Brugsen",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "9ltozBL7xMsphn5kaVG8s",
+  "heading": "Kaffe",
+  "description": "Gevalia. Välj mellan olika sorters brygg, press och kokkaffe. Gäller ej Ecologico mellanrost & Koffeinfri mellanrost. 450 g. Jfr-pris 110:89/kg. Tidigare lägsta pris 68:90/st. Max 2 st/hushåll.",
+  "pricing": {
+   "price": 49.9,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 450
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": 2
+   }
+  },
+  "dealer_id": "IHDhNs",
+  "run_from": "2026-11-22T23:00:00+0000",
+  "run_till": "2026-11-29T22:59:59+0000",
+  "dealer": {
+   "id": "IHDhNs",
+   "name": "Coop X:-TRA",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "MSF-SPH3qwdY42_gfPt4m",
+  "heading": "Kaffe",
+  "description": "Gäller vid köp av andra varor* för 300 kr. *Med undantag för spel, lotter, tobak och receptfria läkemedel.\nZoégas. 450-500 g. Gäller Skånerost, Presso, intenzo, Mezzo. Jfr pris 79:00-87:78/kg.",
+  "pricing": {
+   "price": 79,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 500
+   },
+   "pieces": {
+    "from": 2,
+    "to": 2,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "9cb4wA",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "9cb4wA",
+   "name": "ICA Kvantum",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "7o5IN36EVTH0G4F545fGN",
+  "heading": "FRIELE VINTERKAFFE FILTERMALT",
+  "description": "225 g. Pr pk Pr kg 199,56",
+  "pricing": {
+   "price": 44.9,
+   "pre_price": 50.9,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 225,
+    "to": 225
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "51dawm",
+  "run_from": "2026-11-14T23:00:00+0000",
+  "run_till": "2026-11-21T22:59:59+0000",
+  "dealer": {
+   "id": "51dawm",
+   "name": "Obs",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "ghGgbtl8tFmQ42fP2Ws9t",
+  "heading": "Nescafe instant kaffe eller Lavazza hele kaffebønner",
+  "description": "Flere varianter. 200-500 g. Kg-pris maks. 276,00. 1 glas/pose.\nScan og vind en kaffemaskine",
+  "pricing": {
+   "price": 69,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 200,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "c1edq",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "c1edq",
+   "name": "Kvickly",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "34NwVaOYzX0r_ZydXDiwp",
+  "heading": "PETER LARSEN Kaffe",
+  "description": "400 g. Pr. kg 112,50 Maks. 6 ps. pr. kunde pr. dag.",
+  "pricing": {
+   "price": 45,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 400,
+    "to": 400
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": 6
+   }
+  },
+  "dealer_id": "71c90",
+  "run_from": "2026-11-14T23:00:00+0000",
+  "run_till": "2026-11-21T22:59:59+0000",
+  "dealer": {
+   "id": "71c90",
+   "name": "Lidl",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "IGQxGX_PsATfRsvUzTg98",
+  "heading": "LAVAZZA ELLER L’OR HELE BØNNER",
+  "description": "Flere varianter.",
+  "pricing": {
+   "price": 145,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "kg",
+    "si": {
+     "symbol": "kg",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "267e1m",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "267e1m",
+   "name": "MENY",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "5WuyQR6N1nArGK1KSGxrd",
+  "heading": "KAFFE SKÅNEROST",
+  "description": "Handla andra varor* för minst 500:- så får du köpa... *Gäller ej spel, tobak, lotter och receptfria varor. Zoégas. 500 g. Jfr pris 99:00/kg. Max 1 köp/hushåll.",
+  "pricing": {
+   "price": 99,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 500,
+    "to": 500
+   },
+   "pieces": {
+    "from": 2,
+    "to": 2,
+    "min": null,
+    "max": 1
+   }
+  },
+  "dealer_id": "ca802A",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "ca802A",
+   "name": "ICA Maxi Stormarknad",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "E-9wmTQvbbN8PcJxc9VhG",
+  "heading": "Lavazza helbønner",
+  "description": "1 kg. Flere varianter.",
+  "pricing": {
+   "price": 149,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "kg",
+    "si": {
+     "symbol": "kg",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "bdf5A",
+  "run_from": "2026-10-31T23:00:00+0000",
+  "run_till": "2026-11-30T22:59:59+0000",
+  "dealer": {
+   "id": "bdf5A",
+   "name": "føtex",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "aeJML8voAJEuPUxADR1-X",
+  "heading": "Gevalia, Cafe Noir eller Peter Larsen formalet kaffe",
+  "description": "Nyhed\n400-500 g. Kg-pris maks. 162,50. 1 pose.",
+  "pricing": {
+   "price": 65,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 400,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "DWZE1w",
+  "run_from": "2026-11-18T23:00:00+0000",
+  "run_till": "2026-11-25T22:59:59+0000",
+  "dealer": {
+   "id": "DWZE1w",
+   "name": "365discount",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "H89cOIE4BlFxcOs9jZZ4s",
+  "heading": "Ali kaffe",
+  "description": "et utvalg, 250 g 171,60/kg",
+  "pricing": {
+   "price": 42.9,
+   "pre_price": null,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 250,
+    "to": 250
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "c062vm",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "c062vm",
+   "name": "SPAR",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "aq0HbX4MAr4z3M6FsT5KH",
+  "heading": "ZOEGAS KAFFE",
+  "description": "Zoegas. 450-500g. Gäller ej hela bönor, Estanzia, Hacienda. Jfr pris 118:00-131:11/kg\nMax 2 köp/hushåll",
+  "pricing": {
+   "price": 59,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": 2
+   }
+  },
+  "dealer_id": "ca802A",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "ca802A",
+   "name": "ICA Maxi Stormarknad",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "wSYUZ3UI55tuNEQETWAUB",
+  "heading": "Cirkel, Merrild, BKI eller Karat instant kaffe*",
+  "description": "80-100 g. Kg-pris maks. 425,00. \n1 glas",
+  "pricing": {
+   "price": 34,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 80,
+    "to": 100
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "DWZE1w",
+  "run_from": "2026-11-11T23:00:00+0000",
+  "run_till": "2026-11-18T22:59:59+0000",
+  "dealer": {
+   "id": "DWZE1w",
+   "name": "365discount",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "OCGPyeV5PtxZSsErcT56u",
+  "heading": "NESCAFÉ INSTANT KAFFE",
+  "description": "Original, Espresso eller Gold. Flere varianter. 175-250 g. Max. kg pris 451,43.",
+  "pricing": {
+   "price": 79,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 175,
+    "to": 250
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "267e1m",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "267e1m",
+   "name": "MENY",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "23wuXKmMRjaiU17kgd06F",
+  "heading": "Irma formalet eller hele kaffebønner*",
+  "description": "350-500 g. Kg-pris maks. 168,57. \n1 pakke",
+  "pricing": {
+   "price": 59,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 350,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "DWZE1w",
+  "run_from": "2026-11-11T23:00:00+0000",
+  "run_till": "2026-11-18T22:59:59+0000",
+  "dealer": {
+   "id": "DWZE1w",
+   "name": "365discount",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "G8-sXP_GqY_8Td-uDls6i",
+  "heading": "Cafe Noir instant kaffe eller Merrild eller L'OR hele kaffebønner",
+  "description": "Flere varianter. 240-500 g. Kg-pris maks. 287,50. 1 pose.",
+  "pricing": {
+   "price": 69,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 240,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "0b1e8",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "0b1e8",
+   "name": "SuperBrugsen",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "gRMTBVUyLtWqlpzpjFj9j",
+  "heading": "Kaffe",
+  "description": "Zoégas, 450-500g, flera sorter, malet, gäller ej ekologiskt, jmf-pris 129,00-143,33/kg, Max 1 köp",
+  "pricing": {
+   "price": 129,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 500
+   },
+   "pieces": {
+    "from": 2,
+    "to": 2,
+    "min": null,
+    "max": 1
+   }
+  },
+  "dealer_id": "d9b6XA",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "d9b6XA",
+   "name": "Hemköp",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "8N3wa3BVd_mBmS7I_H9mw",
+  "heading": "MERRILD Instantkaffe",
+  "description": "Mellemristet. 100 g. Pr. kg 350,00",
+  "pricing": {
+   "price": 29,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 100,
+    "to": 100
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "71c90",
+  "run_from": "2026-11-14T23:00:00+0000",
+  "run_till": "2026-11-21T22:59:59+0000",
+  "dealer": {
+   "id": "71c90",
+   "name": "Lidl",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "QrXV4HZ1Pvl2KcPz8QJir",
+  "heading": "Dolce Gusto kaffekapsler 16 pk",
+  "description": "16 stk. Pr pk\nFørpris 71,90/78,90",
+  "pricing": {
+   "price": 69,
+   "pre_price": null,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 16,
+    "to": 16
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "80742m",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "80742m",
+   "name": "Extra",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "_eAM66A51SAEYCGPVD56p",
+  "heading": "Kaffe",
+  "description": "Gevalia. 450 g. Brygg/kok. Gäller ej koffeinfritt, ekologiskt. Jfr pris 133:33/kg. Max 1 köp/hushåll.",
+  "pricing": {
+   "price": 120,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 450
+   },
+   "pieces": {
+    "from": 2,
+    "to": 2,
+    "min": null,
+    "max": 1
+   }
+  },
+  "dealer_id": "1d1dvA",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "1d1dvA",
+   "name": "ICA Supermarket",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "QE9LbeErRCAwqyskpo_I6",
+  "heading": "KAFFE",
+  "description": "Gevalia. 450 g. Flera olika sorter. Brygg/kok. Gäller ej ekologiskt och koffeinfritt. Jfr pris 138:89/kg. Max 1 köp/hushåll.",
+  "pricing": {
+   "price": 125,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 450
+   },
+   "pieces": {
+    "from": 2,
+    "to": 2,
+    "min": null,
+    "max": 1
+   }
+  },
+  "dealer_id": "ca802A",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "ca802A",
+   "name": "ICA Maxi Stormarknad",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "ZIFODCBVfNC7S6KrOm2CA",
+  "heading": "BKI",
+  "description": "Formalet eller Instant kaffe. Flere varianter. 150-400 g. Max. kg pris 266,33.",
+  "pricing": {
+   "price": 39.95,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 150,
+    "to": 400
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "267e1m",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "267e1m",
+   "name": "MENY",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "0w8TwBLl7WzoQVben2pLI",
+  "heading": "Cirkel Kaffe, Starbucks, Nescafe, L'OR, Black Coffee Roasters eller Lavazza kaffekapsler",
+  "description": "Flere varianter. 10 stk. Stk.-pris 2,50. 1 æske.",
+  "pricing": {
+   "price": 25,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 10,
+    "to": 10
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "c1edq",
+  "run_from": "2026-10-31T23:00:00+0000",
+  "run_till": "2026-11-30T22:59:59+0000",
+  "dealer": {
+   "id": "c1edq",
+   "name": "Kvickly",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "TKvP89du9DczFMK7gUGNF",
+  "heading": "STARBUCKS KAFFEKAPSLER",
+  "description": "Nestlè, 10 pk, 3,99 pr. stk",
+  "pricing": {
+   "price": 39.9,
+   "pre_price": 52.9,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 10,
+    "to": 10
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "faa0Ym",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-21T22:59:59+0000",
+  "dealer": {
+   "id": "faa0Ym",
+   "name": "REMA 1000",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "3ryeEcXaubkvdY0CVNXCV",
+  "heading": "Karat Formalet Kaffe",
+  "description": "Original. 400 g. Kg pris 87,50. Max. 4 poser pr. kunde pr. dag. MAX. 4 POSER SKARP PRIS PR. POSE",
+  "pricing": {
+   "price": 35,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 400,
+    "to": 400
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": 4
+   }
+  },
+  "dealer_id": "88ddE",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "88ddE",
+   "name": "SPAR",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "zbhwwB6flvwH0w8kDv3Z6",
+  "heading": "LAVAZZA",
+  "description": "Caffè Crema – hele bønner\nClassico, Gustoso el. Dolce",
+  "pricing": {
+   "price": 99,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "kg",
+    "si": {
+     "symbol": "kg",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "a68bpg",
+  "run_from": "2026-10-28T23:00:00+0000",
+  "run_till": "2026-12-31T22:59:59+0000",
+  "dealer": {
+   "id": "a68bpg",
+   "name": "Nielsen Scan-Shop",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "NiGdEUjhNVMLcephVd47P",
+  "heading": "Nescafé Specialiteter, Nesquik Kakaopulver",
+  "description": "Flere Varianter\nPr. kg max 249,80",
+  "pricing": {
+   "price": 24.98,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 100,
+    "to": 300
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "70d42L",
+  "run_from": "2026-11-17T23:00:00+0000",
+  "run_till": "2026-11-24T22:59:59+0000",
+  "dealer": {
+   "id": "70d42L",
+   "name": "ABC Lavpris",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "JTMl6V-Aiy8lCO9-B10oG",
+  "heading": "Peter Larsen eller Löfbergs Kaffe",
+  "description": "Rød, Økologisk, Økologisk Instant eller Löfbergs hele bønner\nPr. kg max 549,80",
+  "pricing": {
+   "price": 54.98,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 100,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "70d42L",
+  "run_from": "2026-11-17T23:00:00+0000",
+  "run_till": "2026-11-24T22:59:59+0000",
+  "dealer": {
+   "id": "70d42L",
+   "name": "ABC Lavpris",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "HY6-GxFRx2wVRnf_pOBWv",
+  "heading": "Helbønnemarked",
+  "description": "900-1000 g. Peter Larsen Kaffe baristo eller crema, Lavazza crema, Merrild eller L’OR. Flere varianter. Pr. kg max. 165.56\nFRIT VALG",
+  "pricing": {
+   "price": 149,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 900,
+    "to": 1000
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "93f13",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "93f13",
+   "name": "Bilka",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "jxfoDj8wiPd5ML7-j0WoI",
+  "heading": "Chocomel kakaodrik eller Wiener iskaffe",
+  "description": "1 liter. Flere varianter.",
+  "pricing": {
+   "price": 12,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "l",
+    "si": {
+     "symbol": "l",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "93f13",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "93f13",
+   "name": "Bilka",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "FlJQ60RAcRcrxAj1w-Wiz",
+  "heading": "Dolce Gusto, Senseo eller Peter Larsen Kaffe",
+  "description": "12-36 stk. Dolce Gusto kapsler eller Senseo puder eller 100 g Peter Larsen Kaffe instant kaffe. Flere varianter. Pr. stk. max. 4.58 /pr. kg 550.-\nFrit valg",
+  "pricing": {
+   "price": 55,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "93f13",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "93f13",
+   "name": "Bilka",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "xyN7LxhEfzNW5xUfbJfqK",
+  "heading": "KAFFE",
+  "description": "ARVID NORDQUIST • 500g • Olika sorter\nGäller ej ekologiskt samt hela bönor\nJämförpris 89:00 kr/kg • Max 1 köp/hushåll\nLägsta 30-dgrspris 76:90 kr\nSPARA 64:80",
+  "pricing": {
+   "price": 89,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 500,
+    "to": 500
+   },
+   "pieces": {
+    "from": 2,
+    "to": 2,
+    "min": null,
+    "max": 1
+   }
+  },
+  "dealer_id": "c371GA",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "c371GA",
+   "name": "Willys",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "X_LC_1wCJCBQtjxigxCo0",
+  "heading": "MERRILD HELE BØNNER",
+  "description": "Crema, No. 103 Mellemristet eller No. 56 Signature Blend. 400-500 g. Max. kg pris 187,50.",
+  "pricing": {
+   "price": 75,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 400,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "267e1m",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "267e1m",
+   "name": "MENY",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "6XA7kB0ubBZ2_QCj-jB62",
+  "heading": "Copenhagen Roaster helbønner",
+  "description": "Hele kaffebønner fra mikroristeri\nCopgenhagen Roaster helbønner er langsomt ristet for at fremhæve smagsnoterne, hvilket giver en velafbalanceret kop kaffe.\n750 g. Flere varianter. Pr. kg 158,67",
+  "pricing": {
+   "price": 119,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 750,
+    "to": 750
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "bdf5A",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-26T22:59:59+0000",
+  "dealer": {
+   "id": "bdf5A",
+   "name": "føtex",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "uhHoQ2TgQf6pLQjBX9OBv",
+  "heading": "NESCAFE BRASERO",
+  "description": "100 g pr. stk\n450/KG",
+  "pricing": {
+   "price": 45,
+   "pre_price": null,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 100,
+    "to": 100
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "5b11sm",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "5b11sm",
+   "name": "Bunnpris",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "Cx1Nvur0uu_ITqSAucQIh",
+  "heading": "Cirkel Kaffe, Starbucks, Nescafe, L'OR, Black Coffee Roasters eller Lavazza kaffekapsler",
+  "description": "Flere varianter. 10 stk. Stk-pris 2,50. 1 æske",
+  "pricing": {
+   "price": 25,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 10,
+    "to": 10
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "0b1e8",
+  "run_from": "2026-10-31T23:00:00+0000",
+  "run_till": "2026-11-30T22:59:59+0000",
+  "dealer": {
+   "id": "0b1e8",
+   "name": "SuperBrugsen",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "2eN_nDEbj3AdVAPSoxoHC",
+  "heading": "Cafe Noir instant kaffe eller Merrild eller L'OR hele kaffebønner",
+  "description": "Flere varianter. 240-500 g. Kg-pris maks. 287,50. 1 pose",
+  "pricing": {
+   "price": 69,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 240,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "c1edq",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "c1edq",
+   "name": "Kvickly",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "vIvU44qo1vdm-h1n8FKxP",
+  "heading": "Lavazza Hele Bønner",
+  "description": "Qualità Oro eller Espresso Barista Perfetto. 1 kg.\nPr. pakke\nSTOR PAKKE",
+  "pricing": {
+   "price": 159,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "kg",
+    "si": {
+     "symbol": "kg",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "88ddE",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "88ddE",
+   "name": "SPAR",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "1Q0h26qDikvX_63al5sEc",
+  "heading": "Kaffe hela bönor",
+  "description": "Löfbergs. 400 g. Olika sorter. Jfr. pris 186,25/kg.",
+  "pricing": {
+   "price": 149,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 400,
+    "to": 400
+   },
+   "pieces": {
+    "from": 2,
+    "to": 2,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "bfe5hA",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "bfe5hA",
+   "name": "City Gross",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "pZBnhwwcD3ce5zNZBeCou",
+  "heading": "Iskaffe og YT",
+  "description": "et utvalg, TINE, 330 ml\nEnh.pris 60,30 pr. l\nFørpris 27,90–32,90",
+  "pricing": {
+   "price": 19.9,
+   "pre_price": null,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "ml",
+    "si": {
+     "symbol": "l",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 330,
+    "to": 330
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "5861Qq",
+  "run_from": "2026-10-31T23:00:00+0000",
+  "run_till": "2026-11-30T22:59:59+0000",
+  "dealer": {
+   "id": "5861Qq",
+   "name": "Nærbutikken",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "XiX187022lV1tIyFq3U3q",
+  "heading": "Peter Larsen baristo edition el. crema hele kaffebønner",
+  "description": "",
+  "pricing": {
+   "price": 139.99,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 900,
+    "to": 1000
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "65caN",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "65caN",
+   "name": "Løvbjerg",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "sElJWo_T4n03E_HwyGmYK",
+  "heading": "Formalet eller helbønner",
+  "description": "Kaffe-serien fra Salling Princip er lavet af nøje udvalgte bønner af høj kvalitet. I små portioner slow roastes (håndristet) bønnerne, hvilket giver kaffen tid til at udvikle sine fine aromaer og sin optimale smag . Alt produceres i små portioner for at sikre den højeste kvalitet og den bedst mulige friskhed. 450 g. Flere varianter. Pr. kg 177.67",
+  "pricing": {
+   "price": 79.95,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 450
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "93f13",
+  "run_from": "2026-10-29T23:00:00+0000",
+  "run_till": "2026-12-31T22:59:59+0000",
+  "dealer": {
+   "id": "93f13",
+   "name": "Bilka",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "MVCUFGD4CgTZSBwbjikB-",
+  "heading": "Black Coffee Hele Kaffebønner",
+  "description": "Supreme eller Crema\nPr. kg 111,09\n900 gram\nPr. pakke",
+  "pricing": {
+   "price": 99.98,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 900,
+    "to": 900
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "70d42L",
+  "run_from": "2026-11-10T23:00:00+0000",
+  "run_till": "2026-11-17T22:59:59+0000",
+  "dealer": {
+   "id": "70d42L",
+   "name": "ABC Lavpris",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "dpRo0Yd7CbQhKInx0r31F",
+  "heading": "Kaffe",
+  "description": "Zoégas. 450 g. Gäller endast söndag 22/11. Jfr pris 88:89/kg. Max 1 köp/hushåll. Handla andra varor* för 300 kr så får du köpa...",
+  "pricing": {
+   "price": 40,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 450,
+    "to": 450
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": 1
+   }
+  },
+  "dealer_id": "1d1dvA",
+  "run_from": "2026-11-21T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "1d1dvA",
+   "name": "ICA Supermarket",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "3IqvExV_94cDhX6tl63sY",
+  "heading": "Nescafé specialiteter",
+  "description": "8-10 stk. Pr. stk. max. 3,13",
+  "pricing": {
+   "price": 25,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 8,
+    "to": 10
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "9ba51",
+  "run_from": "2026-11-13T23:00:00+0000",
+  "run_till": "2026-11-20T22:59:59+0000",
+  "dealer": {
+   "id": "9ba51",
+   "name": "Netto",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "Ky3jcqMn4SIvsoYwKvk_X",
+  "heading": "GAVESETT",
+  "description": "3x100 g, lakristårn / 2-pk, himalayasalt/peppermix 2-pk, kaffe/sjokolade trøfler / 2-pk, kakao/marshmallow",
+  "pricing": {
+   "price": 119,
+   "pre_price": null,
+   "currency": "NOK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "e857Mm",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-21T22:59:59+0000",
+  "dealer": {
+   "id": "e857Mm",
+   "name": "Europris",
+   "country": {
+    "id": "NO",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "UIDe8MXM0D3IGwW0QrSrs",
+  "heading": "Merrild Formalet Kaffe",
+  "description": "Mellemristet eller Koffeinlet. 400-500 g. Max. kg pris 172,50.",
+  "pricing": {
+   "price": 69,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 400,
+    "to": 500
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "603dfL",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "603dfL",
+   "name": "Min Købmand",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "p8WG6-cIHYpKG_Q5K-54z",
+  "heading": "Merrild kaffe",
+  "description": "😍‼️ JA TAK  ‼️😍\n\n🙌 🙌JUBILÆUMS AMOK🙌\n\n  ♥️RØD MERRILD♥️\n ‼️ pr pose kun 39,99 KR‼️\n\n           👉🏼👉🏼👉🏼 Billig kaffe 👈🏼👈🏼👈🏼\n       ☕️rød merrild kaffe 400 g ☕\n\n   ‼️ pr pose kun 39,99 KR‼️\n\nMax 16 stk pr kunde.\n\n⏰AFHENTNING SENEST ONSDAG  KL 21 VED DEN BLÅ PORT VED SIDEN AF MÆLK⏰\n\nVI SES I LØVBJERG HORSENS♥️DIT LOKALE SUPERMARKED I CENTRUM AF HORSENS SIDEN 1978😊",
+  "pricing": {
+   "price": 39.99,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 1,
+    "to": 1
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "65caN",
+  "run_from": "2026-11-16T23:00:00+0000",
+  "run_till": "2026-11-18T22:59:59+0000",
+  "dealer": {
+   "id": "65caN",
+   "name": "Løvbjerg",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "AXuvyDqP6ZH-vKetEYd7s",
+  "heading": "Nestlé Instant Kaffe el. Kakao",
+  "description": "6-10 stk. Flere varianter. Pr. stk. max 3,33.",
+  "pricing": {
+   "price": 20,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 6,
+    "to": 10
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "6e09Z",
+  "run_from": "2026-11-03T23:00:00+0000",
+  "run_till": "2026-11-24T22:59:59+0000",
+  "dealer": {
+   "id": "6e09Z",
+   "name": "Fleggaard",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "kAhb9YY1i58yHpzJ_JcWn",
+  "heading": "Peter Larsen kaffe",
+  "description": "Grå blanding 66 formalet",
+  "pricing": {
+   "price": 39.99,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 400,
+    "to": 400
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "65caN",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-19T22:59:59+0000",
+  "dealer": {
+   "id": "65caN",
+   "name": "Løvbjerg",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "RPYdwH_Ja_AQjpY13bJo7",
+  "heading": "Snabbkaffe",
+  "description": "Löfbergs. 80-100 g. Olika sorter. Jfr. pris 479,50-599,38/kg. Lägsta 30-dgrspris 49,95/st.",
+  "pricing": {
+   "price": 47.95,
+   "pre_price": null,
+   "currency": "SEK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "g",
+    "si": {
+     "symbol": "kg",
+     "factor": 0.001
+    }
+   },
+   "size": {
+    "from": 80,
+    "to": 100
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "bfe5hA",
+  "run_from": "2026-11-15T23:00:00+0000",
+  "run_till": "2026-11-22T22:59:59+0000",
+  "dealer": {
+   "id": "bfe5hA",
+   "name": "City Gross",
+   "country": {
+    "id": "SE",
+    "unsubscribe_print_url": null
+   }
+  }
+ },
+ {
+  "id": "-EZiW9VEP5oqRZVz5Xueo",
+  "heading": "Starbucks kapsler",
+  "description": "10 stk. Flere varianter. Pr. stk. 3,20",
+  "pricing": {
+   "price": 32,
+   "pre_price": null,
+   "currency": "DKK"
+  },
+  "quantity": {
+   "unit": {
+    "symbol": "pcs",
+    "si": {
+     "symbol": "pcs",
+     "factor": 1
+    }
+   },
+   "size": {
+    "from": 10,
+    "to": 10
+   },
+   "pieces": {
+    "from": 1,
+    "to": 1,
+    "min": null,
+    "max": null
+   }
+  },
+  "dealer_id": "bdf5A",
+  "run_from": "2026-11-12T23:00:00+0000",
+  "run_till": "2026-11-26T22:59:59+0000",
+  "dealer": {
+   "id": "bdf5A",
+   "name": "føtex",
+   "country": {
+    "id": "DK",
+    "unsubscribe_print_url": null
+   }
+  }
+ }
+]

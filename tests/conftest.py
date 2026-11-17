@@ -15,6 +15,7 @@ from handle_mcp.models import (
     CartLine,
     DeliveryInfo,
     DeliverySlot,
+    LeafletOffer,
     Nutrition,
     Order,
     Product,
@@ -203,6 +204,39 @@ def no_telemetry(monkeypatch, tmp_path):
 def fake_stores(monkeypatch):
     monkeypatch.setattr(registry, "STORES", {"fake": FakeStore, "broken": BrokenStore})
     monkeypatch.setattr(app, "_instances", {})
+
+
+class FakeLeaflets:
+    """eTilbudsavis from memory, so no test reaches the network. Smuggles LEAK into the answer.
+    tests/test_leaflets.py swaps in the real client on captured answers."""
+
+    async def search(self, query, chains, limit, today=None):
+        offer = LeafletOffer(
+            "Netto",
+            query,
+            None,
+            Decimal(30),
+            None,
+            "400 g",
+            Decimal(75),
+            "kg",
+            None,
+            date(2026, 11, 14),
+            date(2026, 11, 20),
+        )
+        return {
+            "offers": [offer],
+            "chains": chains or None,
+            "url": "https://etilbudsavis.dk/soeg/x",
+            **LEAK,
+        }
+
+
+@pytest.fixture(autouse=True)
+def fake_leaflets(monkeypatch):
+    from handle_mcp import read_tools
+
+    monkeypatch.setattr(read_tools, "_leaflets", FakeLeaflets())
 
 
 WINDOWS_LIMIT = 2560

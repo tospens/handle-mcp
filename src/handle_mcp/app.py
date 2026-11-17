@@ -28,6 +28,7 @@ MAX_QUANTITY = 50  # per product
 MAX_RESULTS = 25
 CATEGORY_RESULTS, MAX_CATEGORY_RESULTS = 60, 100  # list_offers with a category, per store
 MAX_DAYS = 14
+LEAFLET_RESULTS, MAX_LEAFLET_RESULTS = 20, 50  # search_leaflets
 MIN_PERSONS, MAX_PERSONS = 2, 12  # nemlig: 2-12
 
 # Arguments many tools share. The description is what the model reads about the argument.

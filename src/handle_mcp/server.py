@@ -34,6 +34,7 @@ from handle_mcp.read_tools import (  # noqa: F401 (re-exported)
     get_recipe,
     list_offers,
     list_recipes,
+    search_leaflets,
     search_products,
     search_recipes,
 )
