@@ -57,6 +57,10 @@ Claude Desktop (`claude_desktop_config.json`):
 }
 ```
 
+**Leaflet offers.** `search_leaflets` needs no login. To show only the chains you shop at when the model does not name any, set `HANDLE_LEAFLET_CHAINS` for the server, names as eTilbudsavis writes them: `HANDLE_LEAFLET_CHAINS="Netto,Lidl,føtex,REMA 1000"`.
+
+**Your own instructions.** `HANDLE_INSTRUCTIONS_FILE` names a text file the server adds to its instructions for the model, e.g. where your shopping lists live or which store you prefer. A set file that cannot be read stops the server, so it never runs without your rules by mistake.
+
 **Updates.** `@latest` runs the newest release from PyPI at each start, so store fixes reach you by themselves. Want to choose when to update? Put a version instead of `latest` in every command, e.g. `handle-mcp@1.5.2`, and change it when you want ([ADR 0008](adr/0008-install-the-latest-release.md)).
 
 Then ask: *"We have 4,000 kr a month for food. Plan this week's meals."* The first time it asks who eats, what you like and which store. Open the store's website to check the cart, choose a time and pay.

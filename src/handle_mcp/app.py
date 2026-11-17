@@ -9,7 +9,9 @@ from __future__ import annotations
 
 import asyncio
 import logging
+import os
 from collections.abc import Awaitable, Callable
+from pathlib import Path
 from typing import Annotated, Any
 
 from mcp.server.mcpserver import MCPServer
@@ -47,20 +49,36 @@ ADD = ToolAnnotations(  # add_recipe_to_cart: twice adds twice
     readOnlyHint=False, destructiveHint=True, idempotentHint=False, openWorldHint=True
 )
 
-mcp = MCPServer(
-    "handle",
-    instructions=(
-        "Tools for Danish grocery stores with home delivery. You can search, compare "
-        "baskets, find recipes, list delivery times and change cart quantities. You can never order or pay: the human "
-        "always does that on the store's website. "
-        "If the human is new or unsure what to ask, suggest, in their language: 'Vi har "
-        "4.000 kr. til mad om måneden. Lav ugens madplan.' Before a meal plan, if you do not "
-        "know it yet, ask at most 3 short questions: how many eat (adults, children), what "
-        "they love and never eat, and which store (or the cheapest). A monthly budget becomes "
-        "a weekly one: what is left of it divided by the weeks left in the month, this week "
-        "included, at least 1. Show that sum."
-    ),
+INSTRUCTIONS = (
+    "Tools for Danish grocery stores with home delivery. You can search, compare "
+    "baskets, find recipes, list delivery times and change cart quantities. You can never order or pay: the human "
+    "always does that on the store's website. "
+    "If the human is new or unsure what to ask, suggest, in their language: 'Vi har "
+    "4.000 kr. til mad om måneden. Lav ugens madplan.' Before a meal plan, if you do not "
+    "know it yet, ask at most 3 short questions: how many eat (adults, children), what "
+    "they love and never eat, and which store (or the cheapest). A monthly budget becomes "
+    "a weekly one: what is left of it divided by the weeks left in the month, this week "
+    "included, at least 1. Show that sum."
 )
+
+
+def _instructions() -> str:
+    """The built-in instructions, then the household's own from HANDLE_INSTRUCTIONS_FILE (e.g.
+    where shopping lists live). A set but unreadable file stops the server: running without
+    the household's rules would go unnoticed."""
+    path = os.environ.get("HANDLE_INSTRUCTIONS_FILE", "").strip()
+    if not path:
+        return INSTRUCTIONS
+    try:
+        extra = Path(path).read_text(encoding="utf-8").strip()
+    except OSError as exc:
+        raise SystemExit(
+            f"HANDLE_INSTRUCTIONS_FILE={path} kan ikke læses ({type(exc).__name__})."
+        ) from None
+    return f"{INSTRUCTIONS}\n\n{extra}" if extra else INSTRUCTIONS
+
+
+mcp = MCPServer("handle", instructions=_instructions())
 
 _instances: dict[str, registry.Store] = {}
 
